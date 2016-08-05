@@ -1,0 +1,8 @@
+LibraryAssignment.zip
+This file contains all the java files. This file could be imported into Eclipse to establish the project environment.
+
+library_dump.sql
+Contains all the table create queries and the insert queries. Could be imported into a MySQL database
+
+Report.docx
+Contains the user manual and the software depedency details
